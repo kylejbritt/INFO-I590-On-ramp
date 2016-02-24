@@ -8,6 +8,6 @@ cd /path/to/your/unzipped/directory
 ipython notebook
 ```
 Replace `/path/to/your/unzipped/directory` with the path of the unzipped dir on your local machine. If all set,
-Your web browser will automatically pop up, then you can click on the file named `python_tutorial.ipynb`.
+Your web browser will automatically pop up, then you can click on the file named `python_tutorial.ipynb` to do your assignment.
 
 > you can click on `python_tutorial.ipynb` to have a preview before you download the zip file and do your work.
