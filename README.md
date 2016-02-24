@@ -1,7 +1,9 @@
 # INFO-I590-On-ramp
 This is the `on ramp` materials for the course `Perspective in Data Science` at `IUB` during Spring, 2016 semester.
 
-To finished this assignment, download this directory use the button "Downlad Zip" on this page. Unzip it on your local machine. Then download `Anaconda` software and open your `Terminal`(on Mac) or `Command Line`(on Window), type the following line:
+To finished this assignment, download this directory use the button "Downlad Zip" on this page. Unzip it on your local machine. We also encourage you to register for a github account and `Fork` this repository as your own.
+
+Then download and install `Anaconda` software, open your `Terminal`(on Mac) or `Command Line`(on Window), type the following line:
 
 ```bash
 cd /path/to/your/unzipped/directory
